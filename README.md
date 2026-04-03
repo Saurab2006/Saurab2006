@@ -58,32 +58,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Saurab2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Saurab2006&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurab2006&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=Saurab2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Saurab2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Saurab2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
