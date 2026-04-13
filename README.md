@@ -3,14 +3,9 @@
 
 ## 🧠 About Me
 - 👨‍💻 I am **Saurabh Kumar Yadav**, a tech enthusiast and aspiring developer
-- 🎓 Currently studying at **Biratnagar International College**  
-- 🚀 Always learning, building, and exploring new technologies  
+- 🎓 Currently studying at **Biratnagar International College**   
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- ⚙️ Curious about how systems, algorithms, and machines work behind the scenes  
-- 🎮 Love working with **Unity** and game development  
 - 🌐 Exploring **full-stack web development**
-- 📊 Interested in **data analysis and visualization**
-- 🔧 Always improving my coding and problem-solving skills  
 - 🎯 Goal: To become a skilled **AI Engineer / Software Developer**
 
 ---
