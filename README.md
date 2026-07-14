@@ -14,16 +14,12 @@
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/OleksiiOleksenko/OleksiiOleksenko/master/images/coding.gif" alt="coding gif"/>
-
 - 👨‍💻 I am **Saurabh Kumar Yadav**, a tech enthusiast and aspiring developer
 - 🎓 Currently studying at **Biratnagar International College**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🌐 Exploring **full-stack web development**
 - 🎯 Goal: To become a skilled **AI Engineer / Software Developer**
 - ⚡ Fun fact: I debug faster than I sleep
-
-<br clear="both"/>
 
 ---
 
@@ -74,8 +70,6 @@
 <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
 </div>
 
-> 💡 *Tip: `skillicons.dev` badges glow and lift slightly on hover when viewed on GitHub — a small built-in "3D" interaction.*
-
 ---
 
 ## 📊 GitHub Stats
@@ -89,8 +83,6 @@
 
 </div>
 
-> Replace `Saurab2006` above with your actual GitHub username in all three URLs.
-
 ---
 
 ## 🐍 Contribution Snake (Animated)
@@ -99,39 +91,6 @@
 <img src="https://raw.githubusercontent.com/Saurab2006/Saurab2006/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚠️ **This will show broken until you do a one-time setup** — GitHub can't generate this SVG on its own, a scheduled Action in your profile repo has to create it first. Steps:
-> 1. Make sure you have a repo named exactly **`Saurab2006`** (same as your username) — this is your special "profile repo." If it doesn't exist, create it.
-> 2. Inside it, create the file `.github/workflows/snake.yml` with this content:
-> ```yaml
-> name: generate snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch: {}
->   push:
->     branches: [ "main" ]
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         id: snake-gif
->         with:
->           github_user_name: Saurab2006
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 3. Commit it, then go to the **Actions** tab of that repo and manually run "generate snake" once (don't wait for the cron).
-> 4. After it finishes, an `output` branch appears with the SVG — the image above will then load correctly.
-
 ---
 
 ## 🧊 3D Contribution Graph
@@ -139,34 +98,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Saurab2006/Saurab2006/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
-
-> This turns your contribution calendar into an isometric 3D skyline. It also needs a one-time Action:
-> 1. In the same **`Saurab2006`** profile repo, add `.github/workflows/3d-contrib.yml`:
-> ```yaml
-> name: 3D Contribution Graph
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch: {}
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v3
->       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME: Saurab2006
->       - name: Commit & Push
->         run: |
->           git config user.name github-actions
->           git config user.email actions@github.com
->           git add -A
->           git commit -m "generate 3d contribution graph" || echo "no changes"
->           git push
-> ```
-> 2. Run it once manually from the **Actions** tab.
-> 3. It'll create a `profile-3d-contrib/` folder with several color themes (`profile-night-rainbow.svg`, `profile-south.svg`, etc.) — pick whichever you like and swap the filename above.
 
 ---
 
