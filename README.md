@@ -61,7 +61,8 @@
 
 ### 📊 Data & Analysis
 <div align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </div>
 
@@ -76,9 +77,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saurab2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saurab2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurab2006&theme=radical&hide_border=true" />
 
