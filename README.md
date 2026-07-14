@@ -50,7 +50,8 @@
 
 ### 🛠 Tools & Technologies
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,mysql,apache&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 ### 🎨 Design & Creative
@@ -76,8 +77,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurab2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurab2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saurab2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saurab2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurab2006&theme=radical&hide_border=true" />
 
