@@ -76,8 +76,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurab2006&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurab2006&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurab2006&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurab2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurab2006&theme=radical&hide_border=true" />
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Saurab2006/Saurab2006/output/github-contribution-grid-snake-dark.svg" />
